@@ -130,7 +130,7 @@ The Arayacci Research Paper Bot was developed by:
 - **Samyuktha**
 - **Arush Ajith**
 - **Adithya Venkatesh**
-- **Avinash Krishna**
+- **Avinash M**
 
 
 ## License
